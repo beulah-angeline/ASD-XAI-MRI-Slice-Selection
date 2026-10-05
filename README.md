@@ -127,5 +127,7 @@ Raw MRI data and trained model weights are not included in this repository.
 ## Authors
 
 **Beulah Angeline Yasby J**
+**D. Darling Jemima**
 
 Karunya Institute of Technology and Sciences
+
